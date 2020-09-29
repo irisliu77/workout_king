@@ -7,3 +7,5 @@ This project is built on Java Spring framework. Client and sever communicate thr
 This project is done by Andrew Zhong, Muyan Pan, and Jiayi Liu in collaboration.
 
 Check out our website workout.ninja for more details.
+
+Liev Demo and Explanation: https://www.youtube.com/watch?v=otqYJA5tb44&feature=youtu.be
